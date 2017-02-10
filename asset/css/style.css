@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+}
+.x {
+	border: #EB0003 thin solid;
+}
+.header {
+	height: 100px;
+	background: #F2EFDE;
+}
+.logo, .logo img {
+	height: 100px;
+}
+.ppic {
+	height: 50px;
+	width: 50px;
+	border: thin #E3E0CE solid;
+	
+}
+.about_pic{
+	position: relative;
+	
+}
+/*==================================================
+ * Effect 2
+ * ===============================================*/
+.effect2 {
+	position: relative;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	height: 300px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.menu {
+	background: #DED3B5;
+}
+.footer {
+	height: 100px;
+	background: #F2EFDE;
+}
+.section1 {
+	height: 400px;
+	background: #DED3B5;
+}
+.section2 {
+	height: 200px;
+	background: #DED3B5;
+}
+.section3 {
+	height: 400px;
+	background: #DED3B5;
+}
